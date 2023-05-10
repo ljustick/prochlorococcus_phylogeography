@@ -1,10 +1,13 @@
-# prochlorococcus_phylogeography
-Global scale phylogeography of functional traits and microdiversity in Prochlorococcus
+# Global scale phylogeography of functional traits and microdiversity in *Prochlorococcus*
 
-# Code for CH.2 publication
+Pre-print: https://doi.org/10.1101/2023.01.24.525399
 
-Identify rpoC1 reads from metagenomes using anvi'o
+## Code
+Identify *rpoC1* reads from metagenomes using Anvi'o  
 - 01_anvio_script.sh
+- Anvi'o Metagenomic Tutorial: http://merenlab.org/2016/06/22/anvio-tutorial-v2/  
+- Anvi'o Pangenomic Tutorial: http://merenlab.org/2016/11/08/pangenomics-v2/
+
 
 Calculate consensus sequence for each sample of the *rpoC1* gene using samtools, bowtie2, and bcftools.
 - 02_rpoC1_consensus.sh
