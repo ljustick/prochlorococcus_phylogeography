@@ -7,6 +7,7 @@ Global scale phylogeography of functional traits and microdiversity in Prochloro
 
 
 ### Calculate consensus sequence
+We start here
 - 02_rpoC1_consensus.sh  
 This script was used to calculate the consensus sequences for each sample.
 
