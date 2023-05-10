@@ -1,15 +1,15 @@
 # prochlorococcus_phylogeography
 Global scale phylogeography of functional traits and microdiversity in Prochlorococcus
 
-# code for CH.2 publication
+# Code for CH.2 publication
 
-### Identify rpoC1 reads from metagenomes
+Identify rpoC1 reads from metagenomes using anvi'o
+- 01_
 
+Calculate consensus sequence for each sample of the *rpoC1* gene
+- 02_rpoC1_consensus.sh
 
-### Calculate consensus sequence
-We start here
-- 02_rpoC1_consensus.sh  
-This script was used to calculate the consensus sequences for each sample.
-
-### Create metagenome assembled geonomes (MAGs)
+Create metagenome assembled geonomes (MAGs)
+- 03.1_mags_assembly.sh
+- 03.2_mags_binning.sh
 
