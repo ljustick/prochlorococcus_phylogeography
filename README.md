@@ -1,5 +1,5 @@
 # Global scale phylogeography of functional traits and microdiversity in *Prochlorococcus*
-
+[![DOI](https://zenodo.org/badge/638932336.svg)](https://zenodo.org/badge/latestdoi/638932336)
 Pre-print: https://doi.org/10.1101/2023.01.24.525399
 
 ## Code
